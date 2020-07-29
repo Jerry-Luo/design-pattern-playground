@@ -1,6 +1,6 @@
-package com.design.pattern.playground.lesson34.refactory2;
+package com.design.pattern.playground.idgenerator.refactory2;
 
-import com.design.pattern.playground.lesson34.refactory1.IdGenerator;
+import com.design.pattern.playground.idgenerator.refactory1.IdGenerator;
 import com.google.common.annotations.VisibleForTesting;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

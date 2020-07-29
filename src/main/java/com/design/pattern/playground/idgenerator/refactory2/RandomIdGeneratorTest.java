@@ -1,4 +1,4 @@
-package com.design.pattern.playground.lesson34.refactory2;
+package com.design.pattern.playground.idgenerator.refactory2;
 
 
 import org.junit.jupiter.api.Assertions;

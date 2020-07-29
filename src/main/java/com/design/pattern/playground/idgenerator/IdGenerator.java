@@ -1,4 +1,4 @@
-package com.design.pattern.playground.lesson34;
+package com.design.pattern.playground.idgenerator;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

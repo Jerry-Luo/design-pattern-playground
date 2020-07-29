@@ -1,4 +1,4 @@
-package com.design.pattern.playground.lesson34.refactory1;
+package com.design.pattern.playground.idgenerator.refactory1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

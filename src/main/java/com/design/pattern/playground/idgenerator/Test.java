@@ -1,6 +1,4 @@
-package com.design.pattern.playground.lesson34;
-
-import java.sql.SQLOutput;
+package com.design.pattern.playground.idgenerator;
 
 /**
  * @author <a href="mailto:luojianwei@pinming.cn">LuoJianwei</a>

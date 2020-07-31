@@ -1,4 +1,4 @@
-package com.design.pattern.playground.id.generator.refactory2;
+package com.design.pattern.playground.id.generator.v2;
 
 
 import org.junit.jupiter.api.Assertions;

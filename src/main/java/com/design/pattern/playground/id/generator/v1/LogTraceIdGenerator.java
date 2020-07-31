@@ -1,4 +1,4 @@
-package com.design.pattern.playground.id.generator.refactory1;
+package com.design.pattern.playground.id.generator.v1;
 
 /**
  * @author <a href="mailto:luojianwei@pinming.cn">LuoJianwei</a>

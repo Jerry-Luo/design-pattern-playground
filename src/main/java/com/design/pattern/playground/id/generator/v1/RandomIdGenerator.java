@@ -1,4 +1,4 @@
-package com.design.pattern.playground.id.generator.refactory1;
+package com.design.pattern.playground.id.generator.v1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

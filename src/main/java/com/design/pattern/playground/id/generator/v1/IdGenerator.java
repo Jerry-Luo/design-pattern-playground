@@ -1,6 +1,6 @@
-package com.design.pattern.playground.id.generator.refactory1;
+package com.design.pattern.playground.id.generator.v1;
 
-import com.design.pattern.playground.id.generator.refactory3.IdGenerationFailureException;
+import com.design.pattern.playground.id.generator.v3.IdGenerationFailureException;
 
 /**
  * @author <a href="mailto:luojianwei@pinming.cn">LuoJianwei</a>

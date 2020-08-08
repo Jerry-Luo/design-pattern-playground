@@ -8,6 +8,6 @@ public class Test {
     public static void main(String[] args) {
         //代码使用举例
         LogTraceIdGenerator logTraceIdGenerator = new RandomIdGenerator();
-        System.out.println(logTraceIdGenerator.generate());
+        //System.out.println(logTraceIdGenerator.generate());
     }
 }
